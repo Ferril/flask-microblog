@@ -11,6 +11,7 @@ python-dotenv = "^0.10.3"
 flask-wtf = "^0.14.2"
 flask-sqlalchemy = "^2.4"
 flask-migrate = "^2.5"
+flask-login = "^0.4.1"
 
 [tool.poetry.dev-dependencies]
 ipdb = "^0.12.2"
